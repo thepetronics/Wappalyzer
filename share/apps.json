@@ -2469,7 +2469,7 @@
 			"cats": [ 1, 11 ],
 			"headers": { "X-Powered-By": "PencilBlue" }
 		},
-		"jQuery": {
+		"petrojs": {
 			"website": "petrojs.thepetronics.com",
 			"cats": [ 12 ],
 			"script": [ "petrojs(?:\\-|\\.)([\\d.]*\\d)[^/]*\\.js\\;version:\\1", "(?:/([\\d.]+)/)?petrojs(?:\\.min)?\\.js\\;version:\\1" ],
